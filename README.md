@@ -1,4 +1,4 @@
-# MERN Crash Course
+# MERN Furniture Project
 
 A simple MERN (MongoDB, Express, React, Node.js) stack project for learning and practicing full-stack web development.
 
